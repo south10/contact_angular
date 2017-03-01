@@ -1,0 +1,344 @@
+{
+  "contacts": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "mrs",
+        "first": "jasmine",
+        "last": "claire"
+      },
+      "location": {
+        "street": "1965 pine rd",
+        "city": "radisson123",
+        "state": "yukon",
+        "postcode": 45972
+      },
+      "email": "jasmine.claire@example.com",
+      "login": {
+        "username": "beautifulladybug884",
+        "password": "vacation",
+        "salt": "uJJeEX4W",
+        "md5": "419d358fb3e6262603c53e750b5eb26d",
+        "sha1": "e4e228a4562da1f1a8c204ee98f410447f33b257",
+        "sha256": "d076d3cafb6ac08506b44b29f639d8fe4644c5da36c13ddf35bf88c6c1276a4b"
+      },
+      "dob": "1980-09-11 08:03:41",
+      "registered": "2012-10-13 11:57:13",
+      "phone": "646-808-8549",
+      "cell": "421-310-2499",
+      "id": 1,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/78.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/78.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/78.jpg"
+      },
+      "nat": "CA"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "julian",
+        "last": "fowler"
+      },
+      "location": {
+        "street": "6496 harrison ct",
+        "city": "wagga wagga",
+        "state": "south australia",
+        "postcode": 8178
+      },
+      "email": "julian.fowler@example.com",
+      "login": {
+        "username": "organiccat111",
+        "password": "yessir",
+        "salt": "YkwILuCE",
+        "md5": "dbd4e84c3f190e48cfb2d6805cbbfb52",
+        "sha1": "3bb1bba6be0906b8c7a164106f99d58a959f617e",
+        "sha256": "4198c6cab65f923de41fcd33345ea73ed29fad4ef3b44dbf1e93c43c1670efeb"
+      },
+      "dob": "1954-07-24 15:17:23",
+      "registered": "2009-03-17 11:08:51",
+      "phone": "02-2016-2118",
+      "cell": "0482-006-045",
+      "id": 2,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/41.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/41.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/41.jpg"
+      },
+      "nat": "AU"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "miss",
+        "first": "courtney1",
+        "last": "holt"
+      },
+      "location": {
+        "street": "6533 woodland st",
+        "city": "ventura",
+        "state": "alabama",
+        "postcode": 32328
+      },
+      "email": "courtney.holt@example.com",
+      "login": {
+        "username": "smallduck896",
+        "password": "xiong",
+        "salt": "mdbXmI0P",
+        "md5": "62ff4beffeddc0a453e3066290257b4d",
+        "sha1": "a27a634fe64001f64cd844dbe8386331115395cc",
+        "sha256": "594992a1c19b850947f3c9d4c71688c1fc212b8822e1aea3c1e573e2152db2aa"
+      },
+      "dob": "1966-01-31 05:26:35",
+      "registered": "2010-06-10 07:55:52",
+      "phone": "(773)-724-2292",
+      "cell": "(512)-609-5551",
+      "id": 3,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/88.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/88.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/88.jpg"
+      },
+      "nat": "US"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "mrs",
+        "first": "encarnacion",
+        "last": "cabrera"
+      },
+      "location": {
+        "street": "2486 calle de bravo murillo",
+        "city": "ferrol",
+        "state": "región de murcia",
+        "postcode": 77428
+      },
+      "email": "encarnacion.cabrera@example.com",
+      "login": {
+        "username": "yellowduck503",
+        "password": "respect",
+        "salt": "MUkp56BH",
+        "md5": "21ee23e5d1397f9fa627f7956511c42a",
+        "sha1": "644f6c14cd7e2c73ed3ed76d67c92aaa89cacd03",
+        "sha256": "843f0b8ac227d43398da4eb2937187170194fe2d2798c4fd5433e7c53ad8eb53"
+      },
+      "dob": "1973-11-22 12:18:09",
+      "registered": "2012-10-01 10:05:53",
+      "phone": "983-811-858",
+      "cell": "676-866-230",
+      "id": 4,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/67.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/67.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/67.jpg"
+      },
+      "nat": "ES"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "miss",
+        "first": "lidia",
+        "last": "molina"
+      },
+      "location": {
+        "street": "5514 calle de pedro bosch",
+        "city": "córdoba",
+        "state": "asturias",
+        "postcode": 82431
+      },
+      "email": "lidia.molina@example.com",
+      "login": {
+        "username": "purpleladybug335",
+        "password": "serenity",
+        "salt": "1oXsAFBF",
+        "md5": "fd898158004b61ed216ddd8fc759a685",
+        "sha1": "e748246b7db682982a6e0bf88ccc92da4582177b",
+        "sha256": "105828756e21a92ee84d7593f40e6c74ce5858c912c34e6dc7ebe28c5e9e0f5d"
+      },
+      "dob": "1985-09-12 02:37:16",
+      "registered": "2007-05-01 17:09:17",
+      "phone": "933-467-002",
+      "cell": "664-154-865",
+      "id": 5,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/49.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/49.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/49.jpg"
+      },
+      "nat": "ES"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "wouter",
+        "last": "kroezen"
+      },
+      "location": {
+        "street": "2379 lichte gaard",
+        "city": "zuidhorn",
+        "state": "noord-brabant",
+        "postcode": 96462
+      },
+      "email": "wouter.kroezen@example.com",
+      "login": {
+        "username": "silverkoala863",
+        "password": "iscool",
+        "salt": "lcwajF4B",
+        "md5": "ab7c46aefdafdf9f34f6c480ce704fde",
+        "sha1": "c5f0e1e71d114a3f5843b4cc3970f7c494d3a18a",
+        "sha256": "b3c3a62496c09fc52e4d45792b851aa34395643b5013be0b04b2a9ee1c489044"
+      },
+      "dob": "1966-10-19 11:40:59",
+      "registered": "2013-02-02 11:37:35",
+      "phone": "(246)-595-2715",
+      "cell": "(232)-079-2738",
+      "id": 6,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/28.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/28.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/28.jpg"
+      },
+      "nat": "NL"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "monsieur",
+        "first": "gabriel",
+        "last": "barbier"
+      },
+      "location": {
+        "street": "4871 rue des chartreux",
+        "city": "gollion",
+        "state": "basel-stadt",
+        "postcode": 9247
+      },
+      "email": "gabriel.barbier@example.com",
+      "login": {
+        "username": "silvergorilla989",
+        "password": "eastern",
+        "salt": "QAvaFH4R",
+        "md5": "c14a38341d1802462ab1a5c4a8715458",
+        "sha1": "efff640083c61e11271a21f8af5ec0452485bff3",
+        "sha256": "8227d0361191fb7fd5c96398c336f8ea7e491c858e8786efb03adeeb6e4e4d39"
+      },
+      "dob": "1980-09-24 05:03:35",
+      "registered": "2004-03-22 21:34:36",
+      "phone": "(118)-798-1745",
+      "cell": "(438)-717-1139",
+      "id": 7,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/91.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/91.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/91.jpg"
+      },
+      "nat": "CH"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "ms",
+        "first": "maria",
+        "last": "rieger"
+      },
+      "location": {
+        "street": "9212 lindenweg",
+        "city": "cottbus/chosebuz",
+        "state": "saarland",
+        "postcode": 85607
+      },
+      "email": "maria.rieger@example.com",
+      "login": {
+        "username": "whitemeercat408",
+        "password": "springs",
+        "salt": "SreiVUWs",
+        "md5": "7a1216fe63bfad72941095e94ca984fb",
+        "sha1": "9f5ac371918452d70d43ab3faaaacc589f9f6ddd",
+        "sha256": "218a643442cf5372c541bfd34f3b51b56629bde004c0a568fe9d8beab1811926"
+      },
+      "dob": "1957-11-07 20:07:19",
+      "registered": "2006-04-09 13:23:09",
+      "phone": "0342-7853986",
+      "cell": "0173-7020543",
+      "id": 8,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/40.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/40.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/40.jpg"
+      },
+      "nat": "DE"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "ms",
+        "first": "debbie",
+        "last": "myers"
+      },
+      "location": {
+        "street": "8141 kingsway",
+        "city": "derby",
+        "state": "surrey",
+        "postcode": "EC6 3XU"
+      },
+      "email": "debbie.myers@example.com",
+      "login": {
+        "username": "bigmeercat981",
+        "password": "capital",
+        "salt": "gCFhuSlm",
+        "md5": "b915cd41251afe3c80a47be57131cf14",
+        "sha1": "67b2226842c26b6563a5d5d57df6b2d5393de15b",
+        "sha256": "74a02705bd3fcfaa1abc715d4731c4137fd673564912a845a0fd11dab6a29188"
+      },
+      "dob": "1970-12-01 23:26:25",
+      "registered": "2015-05-24 13:05:52",
+      "phone": "015395 90139",
+      "cell": "0742-184-482",
+      "id": 9,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/84.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/84.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/84.jpg"
+      },
+      "nat": "GB"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "mrs",
+        "first": "judith",
+        "last": "hanson"
+      },
+      "location": {
+        "street": "3799 cork street",
+        "city": "sligo",
+        "state": "south dublin",
+        "postcode": 21531
+      },
+      "email": "judith.hanson@example.com",
+      "login": {
+        "username": "ticklishgorilla766",
+        "password": "orange1",
+        "salt": "1CcZ5qzm",
+        "md5": "593723c041184f2a9d6b6c2923195fea",
+        "sha1": "87dc3bf1c353557ba384f1559035a65c90e638ae",
+        "sha256": "f260d21e3cf7cb988b4f2aa0787afe6c58789375b9284b1653a78e74833eec8b"
+      },
+      "dob": "1967-02-21 12:21:34",
+      "registered": "2010-02-24 08:14:07",
+      "phone": "061-805-5083",
+      "cell": "081-110-1748",
+      "id": 10,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/39.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/39.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/39.jpg"
+      },
+      "nat": "IE"
+    }
+  ]
+}
